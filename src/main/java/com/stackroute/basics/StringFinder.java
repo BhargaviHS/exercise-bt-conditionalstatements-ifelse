@@ -11,11 +11,11 @@ public class StringFinder {
         return null;
     }
 
-    public void displayResult(boolean result) {
+    public void displayResult(int result) {
         //displays the result
     }
 
-    public boolean findString(String searchString, String firstString, String secondString) {
+    public int findString(String searchString, String firstString, String secondString) {
         return false;
     }
 
